@@ -15,6 +15,8 @@ namespace DemoRepo
 
             string Sachin_Branch1 = "";
 
+            string master = "";
+
         }
     }
 }
